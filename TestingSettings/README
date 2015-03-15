@@ -1,0 +1,15 @@
+TestingSettings - basically some productve finger exercise
+
+This program opens the TestingSettings menu of your android device and
+quietly quits after. You can do this without this program by
+typing *#*#4636#*#* into the dialer. But this works even when you don't
+have a dialer.
+
+There are countless other programs out there doing the same. For example
+TelInfo (com.aebeinroth.telinfo) but I couldn't find source of it, so
+I dug deep and found
+http://www.nexusoneforum.net/forum/nexus-one-development-hacking/7118-4636-button.html
+
+Good luck,
+hunderteins
+
